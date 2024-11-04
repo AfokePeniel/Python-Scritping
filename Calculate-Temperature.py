@@ -2,6 +2,7 @@
 This is a program that calculates temperature.
 It askes the user to input details for temperature conversion.
 From Celsius to Fahrenheit and Fahrenheit to Celsius.
+And rounded up to a whole number
 
 """
 
