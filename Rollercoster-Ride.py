@@ -1,3 +1,13 @@
+"""
+This ia a program on the selection of certain conditions
+before a user can go or qualify for a Roller Coaster ride.
+
+"""
+
+
+
+#RollerCoster Code
+
 height = int(input("Kindly enter your height in cm: "))
 bill = 0
 
