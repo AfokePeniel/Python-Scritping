@@ -1,7 +1,7 @@
 """
 This program is an example of what's used when ordering pizza from a store
 A user makes his or her choice of Pizza before proceeding to pay
-based on the choice of pizza with toppings of with pepperoni or extra cheese.
+based on the choice of pizza with toppings of either pepperoni or extra cheese.
 
 """
 
