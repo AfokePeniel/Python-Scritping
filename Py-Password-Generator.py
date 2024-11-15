@@ -26,7 +26,7 @@ for symb in symbols:
         
 password = choice_letters+choice_symbols+choice_numbers
 random.shuffle(password)
- 
+
 print("Your generated password is: ", *password, sep='')
  
     
