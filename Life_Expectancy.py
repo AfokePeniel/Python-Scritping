@@ -1,5 +1,5 @@
 """
-This is a code ues a functionto calculates weeks remaining according to a life expectancy article written
+This is a code ues a function to calculates weeks remaining according to a life expectancy article written
 By Tim Urban in 2014 https://waitbutwhy.com/2014/05/life-weeks.html  . 
 """
 
