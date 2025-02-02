@@ -1,3 +1,10 @@
+"""
+This is a love calulator, where buy two name arguements are supplied
+in the function and it checks both names in the true love variable and
+check the chances of love survival.
+    
+"""
+
 def calculate_love_score(name1, name2):
     two_names = name1 + " " + name2
     T1 = 'T'
